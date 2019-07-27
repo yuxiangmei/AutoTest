@@ -1,4 +1,13 @@
 sddssdsdsd
 ddwdwdiaiiii
+<<<<<<< HEAD
 branchmerge11
 这是master分支
+=======
+这是
+branchmerch分支
+ddd
+
+这是我合并后需要保存的内容
+
+>>>>>>> branchmerch
